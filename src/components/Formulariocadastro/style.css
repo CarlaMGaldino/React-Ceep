@@ -1,0 +1,41 @@
+.form-box {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 0px;
+  width: 55%;
+  font-family: "Roboto";
+}
+
+.form-cadastro {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 30%;
+}
+
+
+.form-cadastro_input {
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin: 5px 0px 2px;
+  padding: 10px;
+  width: 85%;
+  font-family: "Roboto";
+}
+
+
+.form-cadastro_input.form-cadastro-submit {
+  width: 65%;
+  padding: 5px;
+  border-radius: 8px;
+  color: #757575;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: bold;
+}
+
+button#button-um {
+  background-color: #298dd8;
+  color: #fff;
+}

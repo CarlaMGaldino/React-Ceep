@@ -1,0 +1,21 @@
+.lista-notas {
+  color: #757575;
+  width: 63%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.lista-notas__item {
+  background-color: #298dd8;
+  color: #fff;
+  width: 40%;
+  height: 70px;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 10px;
+  box-shadow: 0 0 4px rgb(0 0 0 / 30%);
+}

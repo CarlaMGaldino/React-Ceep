@@ -1,0 +1,33 @@
+.cardo-nota__paragrafo {
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+/* 
+.card-nota {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--fundo-detalhes);
+  border-radius: 4px;
+  flex-wrap: wrap;
+  padding: 16px;
+} */
+
+.card-nota_cabecalho {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-nota_texto {
+  margin-top: 8px;
+  font-size: 1em;
+}
+
+.card-nota_titulo {
+  font-size: 1.2em;
+  margin-right: 12px;
+}
